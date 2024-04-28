@@ -1,0 +1,1 @@
+# sandro-kandelaki-finaluri
