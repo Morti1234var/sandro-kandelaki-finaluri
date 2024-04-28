@@ -1,0 +1,31 @@
+@media (max-width: 1025px) {
+    header{
+        padding-inline: 45px;
+
+    }
+
+    .header_nav{
+        position: fixed;
+        top: 96px;
+        left: 0;
+        background-color: #05BCCA;
+        width: 200px;
+        height: 144px;
+        padding: 16px 56px 16px 16px;
+    }
+
+    .header_ul{
+        flex-direction: column;
+        row-gap: 8px;
+    }
+
+    .burger{
+        display: block;
+    }
+
+    .show{
+        left: 0;
+    }
+
+}
+
